@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Geometry","OGR Geometry"]]});

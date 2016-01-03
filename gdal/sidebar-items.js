@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["geom",""],["raster","GDAL Raster Data"],["vector","GDAL Vector Data"],["version",""]],"struct":[["GdalError",""]]});

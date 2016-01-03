@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FieldValue",""]],"struct":[["Dataset","Vector dataset"],["Defn","Layer definition"],["Driver",""],["Feature","OGR Feature"],["FeatureIterator",""],["Field",""],["FieldIterator",""],["Geometry","OGR Geometry"],["Layer","Layer in a vector dataset"]],"trait":[["ToGdal","Convert object to a GDAL geometry."]]});

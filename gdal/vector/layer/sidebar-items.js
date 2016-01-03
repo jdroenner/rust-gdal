@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FeatureIterator",""],["Layer","Layer in a vector dataset"]]});
