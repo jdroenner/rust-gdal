@@ -1,4 +1,4 @@
-use raster::gdal_enums::GDALDataType;
+use gdal_sys::gdal_enums::{GDALDataType};
 
 pub trait GdalType {
     fn gdal_type() -> GDALDataType;

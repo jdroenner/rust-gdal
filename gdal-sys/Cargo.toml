@@ -1,0 +1,10 @@
+[package]
+name = "gdal-sys"
+version = "0.1.0"
+authors = ["Johannes Drönner <droenner@informatik.uni-marburg.de>"]
+description = "Low level GDAL bindings for Rust"
+license = "MIT"
+
+[dependencies]
+libc = "0.2.18"
+
